@@ -140,7 +140,7 @@ int main()
 //	cout<<search(root,"teenage");
 //	cout<<search(root,"teen");
 	
-	printsuggestions(root,"t");
+	printsuggestions(root,"a");
 	
 }
 
